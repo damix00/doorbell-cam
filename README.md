@@ -22,6 +22,7 @@ Mobilna aplikacija pruža istu funkcionalnost kao i unutarnja jedinica kada je m
 Dino:
 - Vanjska jedinica
 - 3D printanje kućišta
+
 Damjan:
 - Unutarnja jedinica
 - Mobilna aplikacija
